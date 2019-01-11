@@ -146,7 +146,7 @@ Det er en komplisert prosess å få nettsiden responsiv på alle enheter, og vi 
                                   <!--<script src="js/particles.min.js"></script>-->
                                   <script defer src="js/jquery-3.3.1.min.js"></script>
                                   <script defer src="//www.google.com/recaptcha/api.js?hl=no"></script>
-                                  <script defer src="contact.js"></script>
+                                  <script defer src="js/contact.js"></script>
                                   <script defer src="js/fontawesome-all.min.js"></script>
                                   <script defer src="js/app.js"></script>
                                   <script defer src="js/footer_fixed.js"></script>
