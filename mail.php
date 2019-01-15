@@ -1,5 +1,5 @@
 <?php
-	$email_to = "ba.jakobsen@gmail.com";
+	$email_to = "";
 	$sender_name = stripslashes($_POST["sender_name"]);
 	$sender_email = stripslashes($_POST["sender_email"]);
 	$sender_message = stripslashes($_POST["sender_message"]);
