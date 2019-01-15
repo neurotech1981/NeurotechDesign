@@ -51,15 +51,15 @@
                         <div class="column">
                            <img alt="" class="Image" src="/images/tjenester2.svg"  style="margin-top: 40px;" />
                            <h1>Tjenester</h1>
-                           <hr class="stil1"><p id="text-fremside">Vi utvikler moderne og solide nettside løsninger, i samarbeid med dere så utvikler vi en nettside etter deres forretningsmål.</p>
+                           <hr class="stil1"><p id="text-fremside">Vi utvikler moderne og solide nettside løsninger, i samarbeid med dere så utvikler vi en nettside etter deres forretningsmål.
                        </div>
                           <div class="column">
                              <img alt="" class="Image" src="/images/responsivt_design.svg" style="margin-top: 40px;" />
                             <h1>Responsivt Design</h1><hr class="stil1">
                             <p id="text-fremside">Tilpasset alle digitale enheter - med en responsiv nettside vil den tilpasses alle enheter.
-Det er en komplisert prosess å få nettsiden responsiv på alle enheter, og vi legger mye vekt på dette.
- Vi går for “Mobile first” prinsipp, der nettsiden bygges opp fra bunn med mobile enheter som hovedfokus.
- </p>
+                          Det er en komplisert prosess å få nettsiden responsiv på alle enheter, og vi legger mye vekt på dette.
+                          Vi går for “Mobile first” prinsipp, der nettsiden bygges opp fra bunn med mobile enheter som hovedfokus.
+                          </p>
                        </div>
                      </div>
                    </div>
