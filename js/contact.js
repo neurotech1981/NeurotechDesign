@@ -36,8 +36,8 @@
                                             $('#sender_message').val('');
                                             },
                                             error: function() {
-                                                console.log("AN ERROR OCCURED SUBMITTING THE FORM");
-                                                $("#error_message").empty().append("An error occured. Please contact me and…err, this is awkward.");
+                                                console.log("Det skjedde en feil under sending av meldingen. ");
+                                                $("#error_message").empty().append("En feil oppstod under sending av melding, prøv igjen.");
                                             }
                                         })
                                        }
