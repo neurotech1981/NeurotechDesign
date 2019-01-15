@@ -144,13 +144,13 @@ Det er en komplisert prosess å få nettsiden responsiv på alle enheter, og vi 
                                       })();
                                   </script>
                                   <!--<script src="js/particles.min.js"></script>-->
-                                  <script defer src="js/jquery-3.3.1.min.js"></script>
+                                  <script src="js/jquery-3.3.1.min.js"></script>
                                   <script defer src="//www.google.com/recaptcha/api.js?hl=no"></script>
-                                  <script defer src="js/contact.js"></script>
+                                  <script src="js/contact.js"></script>
                                   <script defer src="js/fontawesome-all.min.js"></script>
-                                  <script defer src="js/app.js"></script>
-                                  <script defer src="js/footer_fixed.js"></script>
-                                  <script src='https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js'></script>
+                                  <script src="js/app.js"></script>
+                                  <script src="js/footer_fixed.js"></script>
+                                  <script defer src='https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js'></script>
                                   <script>
                                     if('serviceWorker' in navigator) {
                                       navigator.serviceWorker
